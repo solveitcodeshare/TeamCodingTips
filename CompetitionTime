@@ -1,0 +1,41 @@
+At the competition -
+
+* bring drinks/food/lots of paper and pens
+* try not to be too tired!
+
+1. Spend plently time reading the problem - try find the essence of the problem (don't worry about the "real-world" situation that is presented first.
+> each person  should individually read the problem, look at the first input/output example and write notes and then each person describes what they think is required and then once each person has described
+the problem (some inconsistencies might exist) need to come up with an agreed understanding of the problem. Use paper to write out as much detail on the problem as you can
+Do not start coding early! One common error is to write a solution to something that hasn't been asked. Spending time understanding the problem will hopefully avoid this.
+
+2. Look at input and output files - think about how to read in and store data and also what is required - based on the problem that has to be solved. Don't think about code yet.
+One person: write names of the data you have to work with clearly on some paper where everyone can see it. This might change as you go on to discuss solution - that's ok
+Don't code yet!
+
+3. Think about solutions individually inititally and then share ideas with each sketching a high level outline of their solution (or part of it). Watch time here -
+someone needs to call time if there are no new ideas or too much circular discussions and too many discussions on edge and special cases. It is better to focus on some simolified version of problem initially
+As you discuss solutions, one person should make a list of items that need to be investigated - for example, if everyone agrees you need to have some path finding algorithm.
+
+4. Reassess the design/solution and choose one to proceed with - make a more detailed outline of the solution - put in stubs/placeholders for code/approaches you have to figure out - 
+once there is agreement on the way forward divide tasks ... start coding!
+
+5.
+> one person coding Input/Output
+> one or two people coding main solution (pair programming); 
+> one person tracking down other code/solutions/help (books, etc.); checking other input files for patterns; and watching time/progress
+
+Put a time limit on this - and after that re-assess how people are progressing - do people need to swap tasks/need more help/need feedback. At some stage need to have a rest/break and
+Then move towards more systematic debugging and testing - note you are typically given expected input so you do not have to program error checking. 
+
+
+6.
+Submit answers to first input file as early as possible; everyone needs to check to make sure that the output file is in the correct format - a commo
+mistake it to write the results incorrectly and then you get no points even if you solved the problem
+
+7. Look back at design and at code and see what needs to change/be refactored 
+> Get feedback and input from person who has checked input files and looked up other possible solutions
+Check time and decide on next iteration. Manage expectations
+
+
+
+
