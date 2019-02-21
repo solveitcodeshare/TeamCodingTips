@@ -1,0 +1,32 @@
+
+Some previous solutions:
+Hashcode 2018
+
+This looks like a good (if a little hard to follow) solution in Java to the 2018 problem:
+https://github.com/mcieno/HashCode2018/tree/master/Self-driving%20rides
+
+And a python solution:
+https://github.com/norbertbajko/Google-HashCode-2018/
+
+Hashcode 2017 – servers/videos/caches
+>> https://github.com/topics/hashcode-2017
+
+Good explanation of a Python solution to the Hash Code 2017 (videos/caches) problem here:
+>> http://labs.ebury.rocks/2017/03/23/google-hashcode-2017-how-we-managed-to-solve-the-proposed-problem/
+
+Looks like good solution but not too many comments/explanations 
+>>https://github.com/clemkoa/hashcode-2017/blob/master/videos/main.py
+also:
+>> http://markus-beuckelmann.de/blog/google-hashcode-2017.html
+
+Data Structures and Problem Solving:
+
+Excellent general site (Python and Java implementations). Lots here that also might be useful for IrlCPC (study) but I am including here under "Hash Code" as you can access these during the competition.
+However it would be best if you could look through these first (split this task) focusing on the ones most likely to be useful or are more complex
+>> https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/#algo1
+
+
+Tutorials – look at dynamic programming and graph ones if you can –
+>> http://www.topcoder.com/community/competitive-programming/tutorials/
+https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/
+https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-graphs-and-their-data-structures-section-3/
