@@ -1,0 +1,37 @@
+Before the competition:
+
+
+Team work:
+1. Communicate and cooperate ... decide on strategy before the competition begins
+
+2. Balance Strengths/Weaknesses/Skills ... no one person is good at everything ... find out each others strengths and skills a
+
+3. Based on the previous point, assign roles/tasks - don't waste time organising this once the competition begins -
+ > e.g., who will start coding; who will look up sample code/solutions; who will work on I/O; who will test; who will keep track of notes and time
+
+3. Don't strive for the perfect answer (during practice, at the start or ever!) as this can stop you making progress.
+
+4. Think of the time available  and how you are going to use it - decide on when you need to move from one stage to another - it is quite a short amount of time for such a complext problem 
+
+5. Decide on language and IDE and on conventions for coding so that you can each read each others code more easily. Pick the programming langauge that the team as a whole - or most of the team - knows best. 
+
+6. If a new person joins your team late, don't change your approach for that person.
+ 
+
+
+Practice:
+1. Download and install any extra libraries you might use ... each person can take some subpart of this - and report back to team
+
+2. Become familiar with some of the resources that might help you - split this task - there is no point everyone looking at everything (see file on resources)
+
+3. Get some sample code working for I/O based on previous sample input and output files - have this clearly labelled and ready to adapt - if using Java look at more efficient ways to read in files
+Sub-tasks:
+> 2.1 write basic code
+> 2.2 code data structures for previous inputs 
+> 2.3 check if your code works for bigger files ... if not improve - look at alternatives
+> 2.4 write code for results files
+> 2.5 be ready to zip up source files to submit at end
+> 2.6 consider writing some code to analyse your files - for some of the input files you might not have all the complex cases - if you had some code that could be modified quickly to test this you could save some work
+
+4. Practice with previous problems  - especially in terms of your approach. You won't have time to do everything from scratch so look at past solutions - see if you can understand them and get them to work - they might help you with the new problem
+
